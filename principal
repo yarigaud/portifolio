@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portifolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="interface">
+        <div class="logo">
+            <a href="">
+                <img src="y azul.jpg" alt="letra y" width="30px" height="30px">
+            </a>
+        </div>
+
+        <nav class="menu desktop">
+       <ul>
+        <li><a href="">início</a></li>
+        <li><a href="https://www.instagram.com/yasmimrigaud/profilecard/?igsh=MTdpZGsxZm5obmplbg== "target="_blank">instagram</a></li>
+    <li><a href="https://www.facebook.com/share/1DmykPeT1e/?mibextid=wwXIfr" target="_blank">facebook</a></li>
+    <li><a href="https://github.com/yarigaud" target="_blank">Github</a></li>
+      </ul>
+        </nav>
+        <div class="btn-contato">
+            <a href="https://wa.me/71999413898" target="_blank">
+                <button>contato</button>
+                
+            </a>
+        </div>
+    </div>
+</header>
+<hr>
+
+<main>
+    <section class="topo-do-site">
+        <div class="interface">
+            <div class="flex">
+                <div class="txt-topo-site">
+                    <h1>Yasmim <span>Rigaud</span></h1>
+                 <p> <span>Yasmim do Amaral Rigaud,</span>nascida em 1º de abril de 2007, é uma estudante de <span>Engenharia de Software</span> 
+                     na Unijorge. Ela tem como objetivo se tornar uma <span>desenvolvedora Front-End.</span></p>
+               <div class="btn-contato">
+                    <a href="https://wa.me/71999413898" target="_blank">
+                        <button id="botão"> Entrar em contato</button>
+                    </a>
+               </div>  <!--btn-contato-->
+                </div>  <!--flex-->
+                <div class="img">
+                    <img src="yasmim.jpg" alt="" width="260px" height="240px">
+                </div>
+            </div>  <!--interface-->
+        </div>   <!--topo do site-->
+    </section>
+    
+    </main>
+
+    
+</body>
+</html>
